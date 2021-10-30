@@ -3,3 +3,4 @@ Website
 - Customer page
 - Product page
 - Checkout page
+- Save to dynamoDB
