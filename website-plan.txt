@@ -1,0 +1,5 @@
+Website
+- Register page
+- Customer page
+- Product page
+- Checkout page
